@@ -171,3 +171,27 @@ body, html {
   body {
     font-family: 'Noto Sans', sans-serif; /* Ensure Noto Sans is applied */
 }
+
+  .bumpsale_button{
+    display: inline-block;
+    padding: 17px 58px;
+    font: normal 14px 'Noto Sans', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    border-radius: 3px;
+    background: #ffffff;
+    margin-right: 16px;
+  }
+
+  .bumpsale_button2{ 
+    display: inline-block;
+    padding: 17px 58px;
+    font: normal 14px  'Noto Sans', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 3px;
+    background: #000000;
+    margin-right: 16px;
+  }
