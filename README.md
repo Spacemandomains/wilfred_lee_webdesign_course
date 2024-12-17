@@ -1,57 +1,25 @@
 # wilfred_lee_webdesign_course
 AI Webdesign Course
-Here’s a concise and clear README for your project:  
 
----
+AI Mobile Web Design Landing Page
+This is the official landing page for the AI Mobile Web Design course, authored by Wilfred L. Lee Jr. The course is a live, 8-hour experience designed to teach you how to harness the power of AI to design responsive and optimized mobile websites. This landing page serves as a promotional site for the course, offering details about the course, its features, and how you can enroll.
 
-# Web Design Course Website  
+Features
+AI-powered Mobile Web Design: Learn how AI can revolutionize mobile web design by automating tasks, optimizing content, and enhancing the user experience.
+Responsive Design: Discover how to ensure your mobile websites adapt to various screen sizes and devices.
+Personalized User Experience: Understand how AI can tailor content and layouts for a more engaging mobile experience.
+Automated Layout Creation: Save time by automating the process of creating mobile-optimized layouts.
+Content Optimization: Learn how to use AI for faster load times and visually appealing mobile websites.
+Performance Optimization: Improve the performance of mobile websites through AI-driven adjustments like image resizing and caching.
+AI-Driven Testing: Run automated tests to ensure your mobile site performs perfectly before launch.
+Course Overview
+Duration: 8 Hours
+Format: Live, interactive course
+Taught by: Wilfred L. Lee Jr., an expert in web design and digital nomad lifestyle
+Platform: This course will be hosted on a dedicated platform (details to be provided upon registration)
+Target Audience: Anyone interested in learning AI-powered mobile web design, from beginners to advanced designers.
 
-This repository contains the code for a **Web Design Course Website** that offers an introductory course perfect for auditing before committing to a bootcamp. The course focuses on building foundational coding skills and confidence, empowering learners to explore web design and development.  
 
-## Features  
-- **User-Friendly Design**: Responsive and visually appealing layout, optimized for both desktop and mobile.  
-- **Informative Content**: Includes key information about the course, terms of service, and privacy policy.  
-- **Clear Navigation**: Easy-to-use links and buttons for accessing resources.  
-- **Footer Section**: Organized into three columns for Links, Legal, and About the Maker, ensuring a professional and polished look.  
 
-## Built With  
-- **HTML**  
-- **CSS** (using Tailwind CSS for utility-first styling)  
-- **JavaScript** (optional for interactive elements)  
 
-## Getting Started  
-
-### Prerequisites  
-- A basic understanding of HTML and CSS (recommended).  
-- A text editor (e.g., VS Code) and a web browser for local testing.  
-
-### Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/web-design-course.git  
-   ```  
-2. Navigate to the project folder:  
-   ```bash  
-   cd web-design-course  
-   ```  
-3. Open `index.html` in your browser to view the website locally.  
-
-### Customization  
-- Modify the `footer` section to add or update links.  
-- Adjust Tailwind CSS classes to match your design preferences.  
-- Update course descriptions and links in the main content area.  
-
-## Usage  
-This project is ideal for:  
-- Learners seeking an introductory web design course.  
-- Those considering bootcamp programs.  
-- Auditing and gaining confidence in coding fundamentals.  
-
-## Contributing  
-Contributions are welcome! Feel free to fork the repository and submit a pull request.  
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
-
----
 
